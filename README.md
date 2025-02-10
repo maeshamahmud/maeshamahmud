@@ -14,7 +14,7 @@
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,pug,express,figma,firebase,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes, anaconda, androidstudio, bash, cs, dart, debian, dotnet, eclipse, fastapi, flask, flutter, gradle, java&perline=8" />
   </a>
 </p>
 
@@ -28,8 +28,8 @@
 <br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maeshamahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maeshamahmud" height="30" width="40" /></a>
-<a href="https://instagram.com/maeshamahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maeshamahmud" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maeshamahmud" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="maeshamahmud" height="30" width="40" /></a>
+<a href="https://instagram.com/maeshamahmud" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="maeshamahmud" height="30" width="40" /></a>
 </p>
 <br>
 
