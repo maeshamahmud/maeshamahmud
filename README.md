@@ -18,9 +18,6 @@
   </a>
 </p>
 
-<br>
-
-
 <hr width="36%" >
 <h3>My GitHub Stats</h3>
 
