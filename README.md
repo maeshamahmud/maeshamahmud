@@ -12,7 +12,7 @@
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,figma,firebase,html,java,js,linux,mysql,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes,anaconda,androidstudio,bash,cs,dart,debian,eclipse,fastapi,flask,flutter,gradle,npm,powershell,vercel,vite&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,css,docker,figma,firebase,html,java,js,linux,mysql,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes,anaconda,androidstudio,bash,cs,dart,debian,eclipse,fastapi,flask,flutter,gradle,npm,powershell,vercel,vite&perline=5" />
   </a>
 </p>
 
