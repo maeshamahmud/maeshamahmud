@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,pug,express,figma,firebase,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=5" />
   </a>
 </p>
 
@@ -22,7 +22,6 @@
 
 
 <hr width="36%" >
-<p>cvghbjuhgy</p>
 <h3>My GitHub Stats</h3>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maeshamahmud&theme=dark" alt="maeshamahmud" /></p>
