@@ -22,7 +22,7 @@
 <h3>My GitHub Stats</h3>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maeshamahmud&theme=dark" alt="maeshamahmud" /></p>
-<br><br><br>
+
   <hr width="36%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
