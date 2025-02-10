@@ -12,9 +12,9 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,pug,express,figma,firebase,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,pug,express,figma,firebase,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=8" />
   </a>
 </p>
 
