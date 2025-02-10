@@ -7,12 +7,12 @@
 
 🌱 I’m currently learning: Full-Stack Software Development
 
-<div align="left">
+<div align="right">
   <img alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnY4NGtjMmVjY2dzMGR5b2Y4ZXhtZG80dnI4ZmE2dTY1ZHAwM3pqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif"/>
 </div>
 
 <h3>Languages and Tools:</h3>
-<div align="right">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,docker,figma,firebase,html,java,js,linux,mysql,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes,anaconda,androidstudio,bash,cs,dart,debian,eclipse,fastapi,flask,flutter,gradle,npm,powershell,vercel,vite&perline=5" />
   </a>
