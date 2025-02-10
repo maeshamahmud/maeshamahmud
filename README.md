@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/maeshamahmud" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="maeshamahmud" height="30" width="40" /></a>
 <a href="https://instagram.com/maeshamahmud" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="maeshamahmud" height="30" width="40" /></a>
-<a href="mailto:maesha3133@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="maeshamahmud" height="30" width="40" /></a>
+<a href="mailto:maeshamahmud.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="maeshamahmud" height="30" width="40" /></a>
 
 </p>
 <br>
