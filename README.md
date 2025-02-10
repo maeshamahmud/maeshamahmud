@@ -10,7 +10,7 @@
 <div style="display: flex; direction: column;">
     <h3>Languages and Tools:</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,css,docker,figma,firebase,html,java,js,linux,mysql,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes,anaconda,androidstudio,bash,cs,dart,debian,eclipse,fastapi,flask,flutter,gradle,npm,powershell,vercel,vite&perline=10" />
+      <img src="https://skillicons.dev/icons?i=git,css,docker,figma,firebase,html,java,js,linux,mysql,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes,anaconda,androidstudio,bash,cs,dart,debian,eclipse,fastapi,flask,flutter,gradle,npm,powershell,vercel,vite&perline=8" />
     </a>
 
 <img alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnY4NGtjMmVjY2dzMGR5b2Y4ZXhtZG80dnI4ZmE2dTY1ZHAwM3pqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif"/>
