@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maésha Mahmud</h1>
-
+<p>i am a passionate Computer Science student in my 2nd year with a DSC in Computer Science and Mathematics from CEGEP.</p>
 
 
 
