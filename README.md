@@ -5,7 +5,7 @@
   My goal is to learn as much as I can as I'm a curious person. I also like to make things pretty :)
 </p>
 
-🌱 I’m currently learning: Cloud with AI
+🌱 I’m currently learning: Terraform, Kubernetes, Infrastructure as Code, Docker
 
 <div style="display: flex; direction: column;">
     <h3>Languages and Tools:</h3>
